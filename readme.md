@@ -66,6 +66,9 @@ LICENSE: [MIT](license.md)
 
 ---
 
+![Git fun](img/gitfun.png)
+
+
 Материалы взяты с сайта [proglib.io](https://proglib.io/p/git-for-half-an-hour) 
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos

@@ -62,8 +62,8 @@ LICENSE: [MIT](license.md)
 ✅ [Шпаргалка по основным командам](pages/commands.md)
 
 ✅ [Полезные ссылки](pages/links.md)
-
-
+&nbsp;<br>
+&nbsp;<br>
 
 ![Git fun](img/gitfun.png)
 

@@ -1,10 +1,12 @@
 # Инструкция по работе с Git
 
+LICENSE: [MIT](license.md)
+
 ![Git logo](img/git-logo.png)
 
 
-LICENSE: [MIT](license.md)
 ---
+
 ### Содержание:
 1. Что-то
 2. [git add](add.md)

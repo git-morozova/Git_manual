@@ -24,7 +24,8 @@ git config --global color.ui true
 git config --global color.status auto
 git config --global color.branch auto
 ```
-
+&nbsp;<br>
+&nbsp;<br>
 Если вы не до конца настроили систему для работы, в начале своего пути — не беда. Git всегда **подскажет разработчику, если тот запутался**, например:
 
 1. Команда `git --help` — выводит общую документацию по Git.

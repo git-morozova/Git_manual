@@ -7,7 +7,7 @@ LICENSE: [MIT](license.md)
 
 ---
 
-### Содержание
+## Содержание
 ❶ [**Первичная настройка Git**](pages/config.md) 
 
 ❷ [**Как создать репозиторий**](pages/init.md) 
@@ -58,13 +58,15 @@ LICENSE: [MIT](license.md)
 
 ---
 
-### Дополнительные материалы
+## Дополнительные материалы
 ✅ [Шпаргалка по основным командам](pages/commands.md)
 
 ✅ [Полезные ссылки](pages/links.md)
 
 
 ---
+
+Материалы взяты с сайта [proglib.io](https://proglib.io/p/git-for-half-an-hour) 
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)

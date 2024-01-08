@@ -1,7 +1,8 @@
 [⬅  к содержанию](../readme.md)
 
 ## Полезные ссылки
-
+&nbsp;<br>
+&nbsp;<br>
 
 <b>[Официальная документация, включающая книгу и видеоуроки][link1]</b>    
     
@@ -31,14 +32,14 @@
     
 ![Онлайн утилита для генерации .gitignore файлов][image4]
    
+&nbsp;<br>
 
 
 
-
-[image1]: http://placehold.it/250x100
-[image2]: http://placehold.it/200x100
-[image3]: http://placehold.it/150x100
-[image4]: http://placehold.it/150x100
+[image1]: ../img/links1.png
+[image2]: ../img/links2.png
+[image3]: ../img/links3.png
+[image4]: ../img/links4.png
 
 
 [link1]: https://git-scm.com/doc "Официальная документация, включающая книгу и видеоуроки"

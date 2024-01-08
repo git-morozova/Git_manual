@@ -8,18 +8,9 @@ $ git status
 On branch master
 Initial commit
 Untracked files:
-(use <span style="color: #81b11e;">"git add ..."</span> to include in what will be committed)
+(use &lt;span style&#x3D;&quot;color: #81b11e;&quot;&gt;&quot;git add ...&quot;&lt;&#x2F;span&gt; to include in what will be committed)
 hello.txt
 ```
-
-
-    $ git status
-    On branch master
-    Initial commit
-    Untracked files:
-    (use <span style="color: #81b11e;">"git add ..."</span> to include in what will be committed)
-    hello.txt
-
 
 Сообщение говорит о том, что файл *hello.txt* неотслеживаемый. Это значит, что файл новый и система еще не знает, нужно ли следить за изменениями в файле или его можно просто игнорировать. Для того, чтобы начать отслеживать новый файл, нужно его специальным образом объявить.
 

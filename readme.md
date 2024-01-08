@@ -36,13 +36,13 @@ LICENSE: [MIT](license.md)
 
 ❼&nbsp; [**Работа с ветками**](pages/branch.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Создание новой ветки](pages/branch.md#new)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Создание новой ветки](pages/branch.md#создание-новой-ветки)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Переключение между ветками](pages/branch.md#checkout)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Переключение между ветками](pages/branch.md#переключение-между-ветками)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Слияние веток](pages/branch.md#merge)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Слияние веток](pages/branch.md#слияние-веток)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Как удалить ветку](pages/branch.md#del)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Как удалить ветку](pages/branch.md#как-удалять-ветки-в-git)
 
 ❽&nbsp; [**Другие полезные команды**](pages/other.md)
 

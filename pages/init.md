@@ -7,7 +7,7 @@ Git хранит свои файлы и историю прямо в папке 
 Создайте на рабочем столе папку под названием *git_exercise*. Для этого в окне терминала введите:
 ```bash=
 mkdir Desktop/git_exercise/
-<span style="color: #e49922;">cd</span> Desktop/git_exercise/
+cd Desktop/git_exercise/
 git init
 ```
 

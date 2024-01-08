@@ -8,7 +8,7 @@ git status
 On branch master
 Initial commit
 Untracked files:
-(use <span style="color: #81b11e;">"git add ..."</span> to include in what will be committed)
+(use "git add ..." to include in what will be committed)
 hello.txt
 ```
 

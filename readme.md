@@ -59,9 +59,9 @@ LICENSE: [MIT](license.md)
 ---
 
 ## Дополнительные материалы
-✅ [Шпаргалка по основным командам](pages/commands.md)
+✅ &nbsp;[Шпаргалка по основным командам](pages/commands.md)
 
-✅ [Полезные ссылки](pages/links.md)
+✅ &nbsp;[Полезные ссылки](pages/links.md)
 &nbsp;<br>
 &nbsp;<br>
 

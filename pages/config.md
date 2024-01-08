@@ -4,7 +4,7 @@
 
 Есть довольно много опций, с которыми можно играть, но мы настроим самые важные: наше **имя пользователя** и **адрес электронной почты**. Откройте терминал и запустите команды:
 ```bash=
-git config --global user.name "My Name"
+git config --global user.name <span style="color: #81b11e;">"My Name"</span>
 
 git config --global user.email myEmail@example.com
 ```
@@ -20,7 +20,7 @@ git config --list
 
 Для удобства и легкости зрительного восприятия, некоторые группы команд в Git можно **выделить цветом**, для этого нужно прописать в консоли:
 ```bash=
-git config --global color.ui true
+git config --global color.ui <span style="color: #e49922;">true</span>
 git config --global color.status auto
 git config --global color.branch auto
 ```

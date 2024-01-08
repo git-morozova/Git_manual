@@ -72,3 +72,11 @@ LICENSE: [MIT](license.md)
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
+
+<!-- 
+81b11e зеленый
+e49922 оранжевый
+b08fb5 фиолетово серый
+b1ad86 серо желтый
+-->

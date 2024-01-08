@@ -11,7 +11,5 @@ git config --global user.email myEmail@example.com
 
 
 ---
-
 &nbsp;<br>
-&nbsp;<br>
-[далее  ➞](status.md)
+[далее  ➡](status.md)

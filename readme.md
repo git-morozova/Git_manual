@@ -1,7 +1,7 @@
 # Инструкция по работе с Git
-
+<!--
 LICENSE: [MIT](license.md)
-
+-->
 ![Git logo](img/git-logo.png)
 
 
@@ -32,7 +32,7 @@ LICENSE: [MIT](license.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Выгрузка изменений с сервера](pages/push.md#запрос-изменений-с-сервера)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Как удалить локальный репозиторий](pages/push.md#запрос-изменений-с-сервера)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🠒 [Как удалить локальный репозиторий](pages/push.md#как-удалить-локальный-репозиторий)
 
 ❼&nbsp; [**Работа с ветками**](pages/branch.md)
 
@@ -68,7 +68,4 @@ LICENSE: [MIT](license.md)
 ![Git fun](img/gitfun.png)
 
 
-Материалы взяты с сайта [proglib.io](https://proglib.io/p/git-for-half-an-hour) 
-
-GIT logo by Jason Long - http://git-scm.com/downloads/logos
-license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+Материалы взяты с сайта [proglib.io](https://proglib.io/p/git-for-half-an-hour)

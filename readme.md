@@ -1,6 +1,6 @@
 # Инструкция по работе с Git
 
- ([Pages](https://git-morozova.github.io/HW-02/))
+ ([Pages](https://git-morozova.github.io/HW-01/))
 <!--
 LICENSE: [MIT](license.md)
 -->
